@@ -1,5 +1,5 @@
 import m from 'mithril';
-import { Home } from '../resources/home'
+import { Home } from './resources/home'
 
 (async () => {
 
