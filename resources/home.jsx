@@ -1,5 +1,5 @@
 /* @jsx m */
-import m from '../components/mithril'
+import m from 'mithril'
 import { Test } from '../components/test'
 
 export const Home = () => {

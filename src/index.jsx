@@ -1,4 +1,4 @@
-import m from '../components/mithril';
+import m from 'mithril';
 import { Home } from '../resources/home'
 
 (async () => {
