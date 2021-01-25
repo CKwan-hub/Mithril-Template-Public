@@ -1,5 +1,8 @@
 # Blank Mithril Install
 
+Always had issues with the "express" install from the MithrilJS docs for initialization. 
+Made this as an alternative. 
+
 ---
 
 ## To Run:
